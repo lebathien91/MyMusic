@@ -1,4 +1,5 @@
 # MuisicPlayer
+
 Trình phát nhạc
 
-demo: https://ng0cminh.github.io/MusicPlayer/
+demo: https://lebathien91.github.io/MyMusic/
