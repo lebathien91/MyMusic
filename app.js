@@ -158,6 +158,7 @@ const app = {
       duration: 10000, //10 seconds
       iterations: Infinity,
     });
+
     cdThumbAnimate.pause();
 
     // Xử lý phóng to thu nhỏ CD
